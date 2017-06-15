@@ -1,4 +1,4 @@
 # CallRec_Hibernate
 Web App for parse CDR and Callrec file PBX Asterisk
 
-[Servlet, Hibernate]
+[Java 1.8, Servlet, Hibernate 5]
